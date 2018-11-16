@@ -1,0 +1,14 @@
+{
+  "entities": [
+    {
+      "name": "order",
+      "fields": [{
+        "name": "order_id",
+        "type": "string",
+        "constraints": [
+          "PRIMARY_KEY"
+        ]
+      }]
+    }
+  ]
+}
